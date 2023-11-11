@@ -8,3 +8,12 @@ Basically, to answer the question click on the option which you can to select th
 
 ## Rules
 You can use life-lines only 3-times.
+
+## Screenshots
+![Home Image](https://raw.githubusercontent.com/shivi9984/KBC-Game/main/Screenshots/Home%20Page.jpg)
+
+![Life-line](https://raw.githubusercontent.com/shivi9984/KBC-Game/main/Screenshots/Life-line.jpg)
+
+![2 Life-line](https://raw.githubusercontent.com/shivi9984/KBC-Game/main/Screenshots/2%20Life-line.jpg)
+
+![Life-line Finish](https://raw.githubusercontent.com/shivi9984/KBC-Game/main/Screenshots/Life-line%20Finish.jpg)
